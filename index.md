@@ -1,4 +1,5 @@
 ---
-title: Welcome to my hobbies log
+title: Welcome to my hobbies log!!!
 ---
-welcome to my log were i will how my struggles with cloud gaming and selfhosted cloud gaming
+In this hobbies log, we will talk about my experiences with cloud gaming and my struggles with self cloud gaming hosting 
+
