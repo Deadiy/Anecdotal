@@ -3,7 +3,7 @@ title: "The Basics of why and how"
 date: 2023-08-27
 ---
 # The Basics of why and how
-![1](TheBasicsImage1.jpg)
+![1](TheBasicsImage1.JPG)
 ### Why Cloud? Why not local computing power?
 There are many ways of interacting with computing power, an android phone, a laptop, heck even handheld PCs have been a thing for a while. 
 
@@ -20,7 +20,7 @@ When I began this journey the answer was simple: _Portability!_
 
 Back then the NVIDIA shield was a popular device, meant to show the power of NVIDIA's Graphic cards, while bringing full PC gaming to the couch.
 
-![2](TheBasicsImage2.jpg)
+![2](TheBasicsImage2.JPG)
 
 Though the technology was there, the horse power wasn't. At the time the most powerful graphics card was the 1080TI on the consumers side. Even then it proved hard to render a game and stream it on the same network on a laptop, basically requiring a Desktop PC.
 
@@ -33,7 +33,7 @@ This is what spawned services like Geforce Now, Stadia[Rest in peace], Amazon Lu
 ### Why did I pick local computing power?   
 
 Technology wasn't there, but nothing beat owning the actual hardware which ran my software (Games). Initially a weak laptop was my local computing power, same network 'in house streaming' was great and the games I wanted to play ran just fine. Using a android phone strapped to a controller.
-![3](TheBasicsImage3.jpg)
+![3](TheBasicsImage3.JPG)
 
 But times change, what once was a good enough PC, became outdated...
 
