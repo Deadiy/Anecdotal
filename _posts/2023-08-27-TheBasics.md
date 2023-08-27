@@ -33,7 +33,7 @@ This is what spawned services like Geforce Now, Stadia[Rest in peace], Amazon Lu
 ### Why did I pick local computing power?   
 
 Technology wasn't there, but nothing beat owning the actual hardware which ran my software (Games). Initially a weak laptop was my local computing power, same network 'in house streaming' was great and the games I wanted to play ran just fine. Using a android phone strapped to a controller.
-![3](/images/TheBasicsImage3.JPG)
+![3](/images/TheBasicsImage3.jpg)
 
 But times change, what once was a good enough PC, became outdated...
 
