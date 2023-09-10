@@ -1,5 +1,5 @@
 ---
-title: "The do's and dont's of a homemade cloud gaming server - Backend\Server PC"
+title: "The do's and dont's of a homemade cloud gaming server - Backend \ Server PC"
 date: 2023-09-10
 ---
 
